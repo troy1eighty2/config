@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# Troy's Super Awesome Config 
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## System Information
+- OS: Ubuntu
+- Terminal: kitty
+- Shell: bash
+- Windows Manager: i3
+
+
